@@ -4,7 +4,7 @@ This project demonstrates the automated testing of a calculator app using Appium
 ## Requirements:
 To run the automated tests, you will need the following software installed:
 - IDE
-- Appium
+- Appium Inspector
 - Android SDK
 - Java Development Kit (JDK)
 - Gradle
