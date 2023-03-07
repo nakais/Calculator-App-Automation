@@ -14,7 +14,7 @@ To run the automated tests, you will need the following software installed:
 1. Clone the repository to your local machine.
 2. Open the project in your preferred IDE.
 3. Update the DEVICE_NAME and PLATFORM_VERSION in the Setup.java file to match your emulator or device configuration.
-4. Run the tests using the test runner in the IDE or by running the command mvn clean test in the terminal.
+4. Run the tests using the test runner in the IDE or by running the command gradle clean test in the terminal.
 
 ## Test scenarios:
 The following scenarios are tested in this automation:
