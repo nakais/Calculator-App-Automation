@@ -45,7 +45,10 @@ allure serve allure-results
  ```
 
 ![allure report1](https://user-images.githubusercontent.com/52671754/223334290-b8305e5d-cafe-44eb-a53b-cdc10f0ba239.png)
-![allurerepor2](https://user-images.githubusercontent.com/52671754/223334313-85fd50e5-fbc8-49ff-a380-0f883ff02523.png)
+![allurerepor2](https://user-images.githubusercontent.com/52671754/223334313-85fd50e5-fbc8-49ff-a380-0f883ff02523.png)\
+
+## Conclusion:
+By automating the testing of the calculator app, we were able to ensure that the app works as expected and that it meets the user's requirements. The use of Allure and HTML reports provides detailed information about the test results, making it easy to identify and fix any issues that arise during testing.
 
 
 
